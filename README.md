@@ -1,1 +1,1 @@
-# qizApp
+# qizzApp
