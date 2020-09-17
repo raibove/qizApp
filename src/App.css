@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+ /* width:100vw;
+  height:100vh;
+  */
+  width:100%;
+  height:100%;
+  background-color: aquamarine;
+}
+
+.optn-button{
+  background-color: rgb(70, 194, 224);
+  padding: 1% 1.5%;
+  margin:1.3%;
+  font-size:20px;
+  color: wheat;
+}
+
+.question{
+  padding:5% 3%;
+  font-size:24px;
+}
+
+.next,.playAgain,.getAnswer{
+  background-color:red;
+  font-size:20px;
+  padding:0.5% 1%;
+  margin:2% 1%;
+  color:white;
+}
+.playAgain{
+  align-self: center;
+  top:50px;
+}
+.Answer{
+  background-color: aquamarine;
+}
+
+.showAnswer{
+  background-color: aquamarine;
+  font-size: 24px;
+  text-align: center;
+  padding: 15px;
+}
+.ans{
+  background-color: crimson;
+  color: white;
+  border: 1px solid crimson;
+  font-style: italic;
+  padding: 5px;
+}
